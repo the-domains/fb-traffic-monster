@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[FB Traffic Monster]]></title>
         <description><![CDATA[FB Traffic Monster]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fb-traffic-monster/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 20:04:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Jan 2016 20:07:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fb-traffic-monster/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/210e63a4-0f53-44f2-ab20-92c320907b0c.png">]]></description>
+            <link>https://thegrid.ai/fb-traffic-monster/f006afc3-38db-4456-bc53-c19c586290a0/index.html</link>
+            <guid isPermaLink="false">f006afc3-38db-4456-bc53-c19c586290a0</guid>
+            <pubDate>Mon, 11 Jan 2016 20:07:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How nice would it be to drag people from Facebook, directly onto your site? ]]></title>
             <description><![CDATA[<article><h1>How nice would it be to drag people from Facebook, directly onto your site? </h1><h2>PLUS...</h2><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/146e35ac44f5604b06687e0738f166a388006d6a.png"></article>]]></description>
-            <link>undefinedhow-nice-would-it-be-to-drag-people-from-facebook-directly/index.html</link>
+            <link>https://thegrid.ai/fb-traffic-monster/how-nice-would-it-be-to-drag-people-from-facebook-directly/index.html</link>
             <guid isPermaLink="false">fbdd3fd8-401e-4556-b871-1e4a0f16a509</guid>
             <pubDate>Mon, 11 Jan 2016 20:04:50 GMT</pubDate>
         </item>
