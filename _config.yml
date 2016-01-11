@@ -1,6 +1,6 @@
 name: FB Traffic Monster
 favicon: null
-layout_spectrum: 0.41285
+layout_spectrum: 1
 typography_spectrum: 0.5147032751701772
 title: FB Traffic Monster
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#3c5b96'
+    - '#a1bf2a'
+    - '#ffffff'
+    - '#000000'
+    - '#00ff00'
   brandStrength: 0.13690017512999475
   lightness: 0.5
   saturation: 0.6875
