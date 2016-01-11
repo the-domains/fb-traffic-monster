@@ -2,6 +2,7 @@ name: FB Traffic Monster
 favicon: null
 layout_spectrum: 0.41285
 typography_spectrum: 0.5147032751701772
+title: FB Traffic Monster
 cta:
   domain: null
   bucket: null
